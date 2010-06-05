@@ -1,7 +1,7 @@
 Source: libtap-harness-archive-perl
 Section: perl
 Priority: optional
-Build-Depends: debhelper (>= 7), perl (>= 5.10) | libmodule-build-perl
+Build-Depends: debhelper (>= 7), libmodule-build-perl
 Build-Depends-Indep: libyaml-tiny-perl, perl (>= 5.10.0),
  perl (>= 5.10.1) | libtest-harness-perl (>= 3.05)
 Maintainer: Alan Haggai Alavi <alanhaggai@alanhaggai.org>
