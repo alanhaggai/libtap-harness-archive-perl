@@ -4,7 +4,7 @@ Source: http://search.cpan.org/dist/TAP-Harness-Archive/
 Name: TAP-Harness-Archive
 
 Files: *
-Copyright: Michael Peters <mpeters@plusthree.com>
+Copyright: 2007, Michael Peters <mpeters@plusthree.com>
 License: Artistic or GPL-1+
 
 Files: debian/*
