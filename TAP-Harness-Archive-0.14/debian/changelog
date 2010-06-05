@@ -1,0 +1,5 @@
+libtap-harness-archive-perl (0.14-1) unstable; urgency=low
+
+  * Initial Release. (closes: #584077)
+
+ -- Alan Haggai Alavi <alanhaggai@alanhaggai.org>  Sat, 5 Jun 2010 16:10:53 +0530

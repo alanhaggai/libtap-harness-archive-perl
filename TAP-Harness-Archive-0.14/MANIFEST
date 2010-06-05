@@ -1,0 +1,17 @@
+Build.PL
+Changes
+lib/TAP/Harness/Archive.pm
+MANIFEST
+META.yml			# Will be created by "make dist"
+README
+t/archive.t
+t/bar.t
+t/extra_files.t
+t/extra_files/log1.txt
+t/extra_files/log2.txt
+t/extra_files/stuff/svk.info
+t/extra_properties.t
+t/foo.t
+t/pod-coverage.t
+t/pod.t
+TODO
