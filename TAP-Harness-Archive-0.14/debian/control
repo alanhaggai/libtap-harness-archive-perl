@@ -4,9 +4,12 @@ Priority: optional
 Build-Depends: debhelper (>= 7), libmodule-build-perl
 Build-Depends-Indep: libyaml-tiny-perl, perl (>= 5.10.0),
  perl (>= 5.10.1) | libtest-harness-perl (>= 3.05)
-Maintainer: Alan Haggai Alavi <alanhaggai@alanhaggai.org>
+Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+Uploaders: Alan Haggai Alavi <alanhaggai@alanhaggai.org>
 Standards-Version: 3.8.4
 Homepage: http://search.cpan.org/dist/TAP-Harness-Archive/
+Vcs-Svn: svn://svn.debian.org/pkg-perl/trunk/libtap-harness-archive-perl/
+Vcs-Browser: http://svn.debian.org/viewsvn/pkg-perl/trunk/libtap-harness-archive-perl/
 
 Package: libtap-harness-archive-perl
 Architecture: all
